@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BOP_ATM" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="BOP_ATM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../BOP_ATM" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="BOP_ATM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../BOP_ATM" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ATM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file_access.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file_access.h" />
+		<Unit filename="initialization.h" />
+		<Unit filename="user_interface.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="user_interface.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
