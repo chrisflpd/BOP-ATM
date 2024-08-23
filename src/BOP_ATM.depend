@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1674147939 source:c:\users\xrist\Σχολή\1ο εξάμηνο\Δομημένος Προγραμματισμός\Εργασία\bop_atm\file_access.c
+	"initialization.h"
+	"file_access.h"
+
+1674145985 c:\users\xrist\Σχολή\1ο εξάμηνο\Δομημένος Προγραμματισμός\Εργασία\bop_atm\initialization.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1674145977 c:\users\xrist\Σχολή\1ο εξάμηνο\Δομημένος Προγραμματισμός\Εργασία\bop_atm\file_access.h
+
+1674147972 source:c:\users\xrist\Σχολή\1ο εξάμηνο\Δομημένος Προγραμματισμός\Εργασία\bop_atm\user_interface.c
+	"initialization.h"
+	"user_interface.h"
+	"file_access.h"
+
+1674145963 c:\users\xrist\Σχολή\1ο εξάμηνο\Δομημένος Προγραμματισμός\Εργασία\bop_atm\user_interface.h
+
+1674149388 source:c:\users\xrist\Σχολή\1ο εξάμηνο\Δομημένος Προγραμματισμός\Εργασία\bop_atm\atm.c
+	"initialization.h"
+	"user_interface.h"
+	"file_access.h"
+
