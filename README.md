@@ -24,4 +24,4 @@ BOP_ATM.exe
 ### Codeblocks
 An alternative approach is to use the integrated development environment CodeBlocks. Open the "BOP_ATM.cbp" file through the CodeBlocks application and, after selecting the main file ATM.c, use the "Build and run" function to compile and run the program.
 
-For more details, check the documentation file: [BOP-ATM Documentation.pdf](https://github.com/chrisflpd/BOP-ATM/blob/main/BOP-ATM%20Documentation.pdf)
+For more details, check the documentation file: [BOP_ATM Documentation.pdf]([https://github.com/chrisflpd/BOP-ATM/blob/main/BOP-ATM%20Documentation.pdf](https://github.com/chrisflpd/BOP-ATM/blob/main/BOP_ATM%20Documentation.pdf))
