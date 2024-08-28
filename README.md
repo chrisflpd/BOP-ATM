@@ -9,7 +9,7 @@ To change directory to the cloned file, type
 ```
 cd <path>
 ```
-where path is the path of the "Source code" folder. To compile, type
+where path is the path of the "src" folder. To compile, type
 ```
 gcc -c ATM.c user_interface.c file_access.c
 ```
